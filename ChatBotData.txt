@@ -1,0 +1,4 @@
+hello=Hello.
+hello)=hi)
+hi(=hello,what happen?
+what are u doing?=good and you?
